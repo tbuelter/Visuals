@@ -254,7 +254,7 @@ void ofApp::drawStage3() {
 		glm::vec3 b(1, 1, aX*bY);
 		b = glm::polar(b) *400;
 		a = glm::polar(a) *400;
-
+*/
 }
 
 void ofApp::keyPressed(int key){
